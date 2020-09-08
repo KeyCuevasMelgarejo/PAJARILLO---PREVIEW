@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Pajarillo - Demo
+# Pajarillo - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FPAJARILLO___PREVIEW)
 ![](Demo.png)
 
 # Pajarillo - Inicialización
